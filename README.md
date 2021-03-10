@@ -18,4 +18,4 @@
 # MAR 10th-------------------------------------------------
 
   Bulilt main page of the Website
-  Need to create SNS account for the program
+  Add links for Twitter and Instagram
