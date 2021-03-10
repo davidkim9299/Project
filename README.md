@@ -7,7 +7,7 @@
     - Projects
     - E-mail address
 
-  Read .docs file for details
+  Read "CISC 4900 Project Proposal.docx" file for details
   www.dongryulkim9299.com/Project for website
 
 # MAR 01st-------------------------------------------------
