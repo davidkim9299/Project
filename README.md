@@ -21,6 +21,12 @@
 
 # MAR 10th-------------------------------------------------
 
-  Bulilt main page of the Website
+  Built Website
   
   Add links for Twitter and Instagram
+  
+# MAR 022th-------------------------------------------------
+
+  Start building Android Application using Kotlin
+  
+  Created first page
