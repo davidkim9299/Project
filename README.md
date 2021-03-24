@@ -25,8 +25,12 @@
   
   Add links for Twitter and Instagram
   
-# MAR 022th-------------------------------------------------
+# MAR 22th-------------------------------------------------
 
   Start building Android Application using Kotlin
   
   Created first page
+  
+# MAR 23th-------------------------------------------------
+
+  Created second page
