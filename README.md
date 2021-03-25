@@ -37,4 +37,4 @@
   
 # MAR 24th-------------------------------------------------
   Created Third pages for each part
-  Skipped to design each screen. Just construct the structure of the app
+  Skipped to design each screen. Just constructed the structure of the app
