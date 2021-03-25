@@ -20,7 +20,6 @@
 # MAR 10th
 
   #Build Website
-   
    - single page and static   
    - Introduces what this program is   
    - Has link to download app for android devices   
