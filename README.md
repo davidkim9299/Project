@@ -42,7 +42,7 @@
    - Start to learn Kotlin
    - Since developers have used Java to build android app, Kotlin has really similar grammar and structure with Java
    - Study to undestand what Kotlin is
-   - Created first page of the app
+   - Create first page of the app
    - Image will not be displayed when it has too many pixels
    - Put test image to display in device. and it works.
   
@@ -60,6 +60,6 @@
   
 # MAR 24th
   
-  #Created Third pages for each part
+  #Create Third pages for each part
   
-  #Skipped to design each screen. Just constructed the structure of the app
+  #Skip to design each screen. Just constructed the structure of the app
