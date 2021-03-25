@@ -33,4 +33,8 @@
   
 # MAR 23th-------------------------------------------------
 
-  Created second page
+  Created second page -> divided two parts now on
+  
+# MAR 24th-------------------------------------------------
+  Created Third pages for each part
+  Skipped to design each screen. Just construct the structure of the app
