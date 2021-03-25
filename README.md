@@ -22,15 +22,12 @@
 
 # MAR 10th
 
-  #Built Website
+  #Build Website
    
-   - single page
-   
-   - Static
-   
-   - Introduces what this program is and purpose
-   
-   - Has link to download app for android devices
+   - single page and static   
+   - Introduces what this program is   
+   - Has link to download app for android devices   
+   - Use MIT licensed open sources 
   
   #Add links for Twitter and Instagram
   
