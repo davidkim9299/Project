@@ -27,7 +27,6 @@
    - single page and static   
    - Introduces what this program is   
    - Has link to download app for android devices   
-   - Use MIT licensed open sources 
   
   #Add links for Twitter and Instagram
   
