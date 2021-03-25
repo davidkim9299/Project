@@ -3,7 +3,7 @@
   #Upload code
   
   #need to be add
-  
+    
    - Introduction
    
    - Projects
@@ -23,6 +23,14 @@
 # MAR 10th
 
   #Built Website
+   
+   - single page
+   
+   - Static
+   
+   - Introduces what this program is and purpose
+   
+   - Has link to download app for android devices
   
   #Add links for Twitter and Instagram
   
