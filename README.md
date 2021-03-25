@@ -17,8 +17,8 @@
 # MAR 01st
 
   #Gather some API's from Youtube.
-  
-  #such as frequency waves, sounds from nature.
+   - Frequency waves
+   - Sounds from nature
 
 # MAR 10th
 
