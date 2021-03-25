@@ -39,16 +39,20 @@
 # MAR 22th
 
   #Start building Android Application using Kotlin
-  
-  #Created first page.
+   - Start to learn Kotlin
+   - Since developers have used Java to build android app, Kotlin has really similar grammar and structure with Java
+   - Study to undestand what Kotlin is
+   - Created first page of the app
+   - Image will not be displayed when it has too many pixels
+   - Put test image to display in device. and it works.
   
   #Print app name and put [start] button whcih let user starts explorer the app
   
 # MAR 23th
 
   #Created second page -> divided two parts now on
-  
-  #When user click [start] button at the first page, the second page showed up.
+   - Learn how to move to next page using 'button'
+   - When user click [start] button at the first page, the second page showed up.
   
   #This page is divided by two parts wich represent 'frequency wave' and 'sound from nature'
   
