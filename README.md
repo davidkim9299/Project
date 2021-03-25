@@ -3,11 +3,8 @@
   #Upload code
   
   #need to be add
-    
    - Introduction
-   
    - Projects
-   
    - E-mail address
 
   #Read "CISC 4900 Project Proposal.docx" file for details
