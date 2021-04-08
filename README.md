@@ -2,7 +2,7 @@
 
   #Build ideas for project
   
-    - Web and mobile application (Android)
+   - Web and mobile application (Android)
   
 # Week 02 (Feb 07th - Feb 13rd)
 
