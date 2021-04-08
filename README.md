@@ -45,10 +45,8 @@
   
 # Week 06 (Mar 07th - Mar 13th)
 
-  #Confirm project proposal and supervisor from professor
-  
-  #"CISC 4900 Project Proposal.docx" file for details
-  
+  #Project proposal confirmed. "CISC 4900 Project Proposal.docx" file for details
+    
   #Build Web page
   
     - Static
@@ -81,11 +79,10 @@
 
 # Week 09 (Mar 21st - Mar 24th)
 
-  #Start build mobile application for android devices
+  #Self-study
   
     - Learn Kotlin
-    - Create first page of the app
-    - 
+    
 
 # Week 10 (Mar 25th - Apr 04th)
   
