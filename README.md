@@ -13,7 +13,7 @@
 
 # MAR 01st
 
-  #Gather some API's from Youtube.
+  #Gather contents from Youtube.
    - Frequency waves
    - Sounds from nature
 
