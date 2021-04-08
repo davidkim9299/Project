@@ -27,7 +27,6 @@
   #Add links for Twitter and Instagram
   
   #[Download] button will be activated after the app resistered in market
-  
   ![Webpage](https://user-images.githubusercontent.com/70281650/114076734-022c8600-9875-11eb-9119-e51c5011c668.PNG)
 
   
@@ -42,6 +41,7 @@
    - Put test image to display in device. and it works.
   
   #Set sign-up buttons 
+  ![mainpage](https://user-images.githubusercontent.com/70281650/114076957-43249a80-9875-11eb-98d0-1b3d312b9cdb.PNG)
   
 # MAR 23th
 
