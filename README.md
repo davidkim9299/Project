@@ -1,16 +1,27 @@
 # Week 01 (Jan 31st - Feb 6th)
+
   #Build ideas for project
+  
     - Web and mobile application (Android)
   
 # Week 02 (Feb 07th - Feb 13rd)
+
   #Start discussing web page design with supervisor.
+  
     - Since this project has mobile application, the web page briefly introduces the purpose and contents of this program.
+    
     #Basic concept of web page
+    
       - Use HTML/CSS and JavaScript
+      
       - Static web page
+
       - Hosting with GitHub
+      
       - Download link on the main page
+      
       - connect social medias such as twitter and instagram
+      
       - Method to contact developer
   
 # Week 03 (Feb 14th - Feb 20th)
