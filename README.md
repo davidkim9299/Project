@@ -1,10 +1,10 @@
-# Week 01 (Jan 31st - Feb 6th)
+# Week 01 (Jan 31st - Feb 6th) 4hrs
 
   #Build ideas for project
   
    - Web and mobile application (Android)
   
-# Week 02 (Feb 07th - Feb 13rd)
+# Week 02 (Feb 07th - Feb 13rd) 2hrs 30mins
 
   #Start discussing web page design with supervisor.
    
@@ -20,7 +20,7 @@
    - connect social medias such as twitter and instagram
    - Method to contact developer
   
-# Week 03 (Feb 14th - Feb 20th)
+# Week 03 (Feb 14th - Feb 20th) 12hrs 42mins
 
   #Start to upload code
   
@@ -34,19 +34,19 @@
    
    - https://dongryulkim9299.com/Project/
 
-# Week 04 (Feb 21st - Feb 27th)
+# Week 04 (Feb 21st - Feb 27th) 6hrs
   
   #Investigate the effects of sound on the human body
   - Attach links to web page for references.
 
-# Week 05 (Feb 28th - Mar 06th)
+# Week 05 (Feb 28th - Mar 06th) 5hrs
 
   #Get contents from Youtube (Open Sources)
   
    - Frequency waves
    - Sounds from nature
   
-# Week 06 (Mar 07th - Mar 13th)
+# Week 06 (Mar 07th - Mar 13th) 21hrs
 
   #Project proposal confirmed. "CISC 4900 Project Proposal.docx" file for details
     
@@ -64,7 +64,7 @@
   
    ![Webpage](https://user-images.githubusercontent.com/70281650/114076734-022c8600-9875-11eb-9119-e51c5011c668.PNG)
   
-# Week 07 (Mar 14th - Mar 20th)
+# Week 07 (Mar 14th - Mar 20th) 24hrs
 
    #Start building Android Application using Kotlin
    
@@ -82,20 +82,20 @@
    ![Screenshot_1617910956](https://user-images.githubusercontent.com/70281650/114086797-11b1cc00-9881-11eb-8f6b-eb48a7c62f2c.png)
 
 
-# Week 08 (Mar 21st - Mar 24th)
+# Week 08 (Mar 21st - Mar 24th) 8hrs
 
   #Self-study
   
    - Learn Kotlin
     
 
-# Week 09 (Mar 25th - Apr 04th)
+# Week 09 (Mar 25th - Apr 04th) 0hrs
   
   #Spring Break
   
    - Need to prepare upcoming wedding ceremony. Cannot work on the project
   
-# Week 10 (Apr 05th - Apr 10th)
+# Week 10 (Apr 05th - Apr 10th) 
 
   #Learn firebase to link application and database
   
