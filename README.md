@@ -8,7 +8,8 @@
 
   #Start discussing web page design with supervisor.
    
-    - Since this project has mobile application, the web page briefly introduces the purpose and contents of this program.
+    - Since this project has mobile application, 
+      The web page briefly introduces the purpose and contents of this program.
     
   #Basic concept of web page
    
@@ -87,7 +88,9 @@
     - 
 
 # Week 10 (Mar 25th - Apr 04th)
+  
   #Spring Break
+  
     - Need to prepare upcoming wedding ceremony. Cannot work on the project
   
 # Week 11 (Apr 05th - Apr 10th)
