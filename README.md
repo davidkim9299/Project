@@ -25,13 +25,13 @@
   
   #Need to be added
   
-    -Introduction
-    -Sample contents
-    -Contactable method such as E-mail
+    - Introduction
+    - Sample contents
+    - Contactable method such as E-mail
     
    #Hosted with GitHub
    
-    -https://dongryulkim9299.com/Project/
+    - https://dongryulkim9299.com/Project/
 
 # Week 04 (Feb 21st - Feb 27th)
 
@@ -39,41 +39,50 @@
 
   #Get contents from Youtube (Open Sources)
   
-    -Frequency waves
-    -Sounds from nature
+    - Frequency waves
+    - Sounds from nature
   
 # Week 06 (Mar 07th - Mar 13th)
 
-  #Confirm project proposal and supervisor from professor (Allan James)
+  #Confirm project proposal and supervisor from professor
   
   #"CISC 4900 Project Proposal.docx" file for details
   
   #Build Web page
-    -Static
-    -Has introduction about this program
-    -Has link to download app for android devices
+    - Static
+    - Has introduction about this program
+    - Has link to download app for android devices
     
    #Add link to Twitter and Instagram
-    -https://www.instagram.com/_comfortsound/
-    -https://twitter.com/comfortsound1
+    - https://www.instagram.com/_comfortsound/
+    - https://twitter.com/comfortsound1
   
    ![Webpage](https://user-images.githubusercontent.com/70281650/114076734-022c8600-9875-11eb-9119-e51c5011c668.PNG)
   
 # Week 07 (Mar 14th - Mar 20th)
 
-    #Start building Android Application using Kotlin
-      - Start to learn Kotlin
-      - Since developers have used Java to build android app, Kotlin has really similar grammar and structure with Java
-      - Study to undestand what Kotlin is
-   - Create first page of the app
-   - Learned that image will not be displayed when it has too many pixels
-   - Put test image to display in device. and it works.
+   #Start building Android Application using Kotlin
+   
+    - Start to learn Kotlin
+    - Since developers have used Java to build android app, Kotlin has really similar grammar and structure with Java
+    - Study to undestand what Kotlin is
+    - Create first page of the app
+    - Learned that image will not be displayed when it has too many pixels
+    - Put test image to display in device. and it works.
   
-  #Set sign-up buttons 
+   #Set sign-up buttons 
+    
+    - sign up manually or with social networks (Google, Facebook)
   
-  ![mainpage](https://user-images.githubusercontent.com/70281650/114076957-43249a80-9875-11eb-98d0-1b3d312b9cdb.PNG)
+   ![mainpage](https://user-images.githubusercontent.com/70281650/114076957-43249a80-9875-11eb-98d0-1b3d312b9cdb.PNG)
 
 # Week 09 (Mar 21st - Mar 24th)
+
+  #Start build mobile application for android devices
+  
+    - Learn Kotlin
+    - Create first page of the app
+    - 
 
 # Week 10 (Mar 25th - Apr 04th)
   
@@ -92,36 +101,3 @@
 
 
   
-# MAR 22th
-
-  #Start building Android Application using Kotlin
-   - Start to learn Kotlin
-   - Since developers have used Java to build android app, Kotlin has really similar grammar and structure with Java
-   - Study to undestand what Kotlin is
-   - Create first page of the app
-   - Learned that image will not be displayed when it has too many pixels
-   - Put test image to display in device. and it works.
-  
-  #Set sign-up buttons 
-  
-  ![mainpage](https://user-images.githubusercontent.com/70281650/114076957-43249a80-9875-11eb-98d0-1b3d312b9cdb.PNG)
-  
-# MAR 23th
-
-  #Created second page -> divided two parts now on
-   - Learn how to move to next page using 'button'
-   - When user click [start] button at the first page, the second page showed up.
-  
-  #This page is divided by two parts wich represent 'frequency wave' and 'sound from nature'
-  
-  #User can choose and access to the sound what they want to listen
-  
-# MAR 24th
-  
-  #Create Third pages for each part
-  
-  #Skip to design each screen. Just constructed the structure of the app
-
-# MAR 25th - APR 4th Spring Break
-
-  #Since I am preparing wedding ceremony, cannot work on this project during spring break
