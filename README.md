@@ -79,7 +79,8 @@
     
     - sign up manually or with social networks (Google, Facebook)
   
-   ![mainpage](https://user-images.githubusercontent.com/70281650/114081744-f04de180-987a-11eb-865a-96ffd15ee6e0.PNG)
+   ![Screenshot_1617910956](https://user-images.githubusercontent.com/70281650/114086797-11b1cc00-9881-11eb-8f6b-eb48a7c62f2c.png)
+
 
 # Week 08 (Mar 21st - Mar 24th)
 
