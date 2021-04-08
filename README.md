@@ -1,4 +1,44 @@
-# FEB 01st
+# Week 01 (Jan 31st - Feb 6th)
+  #Build ideas for project
+    - Web and mobile application (Android)
+  
+# Week 02 (Feb 07th - Feb 13rd)
+  #Start discussing web page design with supervisor.
+    - Since this project has mobile application, the web page briefly introduces the purpose and contents of this program.
+    #Basic concept of web page
+      - Use HTML/CSS and JavaScript
+      - Static web page
+      - Hosting with GitHub
+      - Download link on the main page
+      - connect social medias such as twitter and instagram
+      - Method to contact developer
+  
+# Week 03 (Feb 14th - Feb 20th)
+
+# Week 04 (Feb 21st - Feb 27th)
+
+# Week 05 (Feb 28th - Mar 06th)
+  #Get contents from Youtube (Open Sources)
+    -Frequency waves
+    -Sounds from nature
+  
+# Week 06 (Mar 07th - Mar 13th)
+  #Confirm project proposal and supervisor from professor (Allan James)
+  
+  
+# Week 07 (Mar 14th - Mar 20th)
+
+# Week 09 (Mar 21st - Mar 24th)
+
+# Week 10 (Mar 25th - Apr 04th)
+  I do not work on the project since I am getting married soon
+  I prepare the wedding ceremony
+  
+# Week 11 (Apr 05th - Apr 10th)
+
+
+
+# Week 01 (Jan 31st - Feb 6th)
 
   #Upload code
   
@@ -11,11 +51,8 @@
   
   #www.dongryulkim9299.com/Project for website
 
-# MAR 01st
 
-  #Gather contents from Youtube.
-   - Frequency waves
-   - Sounds from nature
+
 
 # MAR 10th
 
@@ -60,3 +97,7 @@
   #Create Third pages for each part
   
   #Skip to design each screen. Just constructed the structure of the app
+
+# MAR 25th - APR 4th Spring Break
+
+  #Since I am preparing wedding ceremony, cannot work on this project during spring break
