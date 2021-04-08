@@ -81,20 +81,24 @@
   
    ![mainpage](https://user-images.githubusercontent.com/70281650/114081744-f04de180-987a-11eb-865a-96ffd15ee6e0.PNG)
 
-# Week 09 (Mar 21st - Mar 24th)
+# Week 08 (Mar 21st - Mar 24th)
 
   #Self-study
   
     - Learn Kotlin
     
 
-# Week 10 (Mar 25th - Apr 04th)
+# Week 09 (Mar 25th - Apr 04th)
   
   #Spring Break
   
     - Need to prepare upcoming wedding ceremony. Cannot work on the project
   
-# Week 11 (Apr 05th - Apr 10th)
+# Week 10 (Apr 05th - Apr 10th)
+
+  #Learn firebase to link application and database
+  
+  #Use emailJS to create e-mail contact form
 
 
 
