@@ -49,11 +49,13 @@
   #"CISC 4900 Project Proposal.docx" file for details
   
   #Build Web page
+  
     - Static
     - Has introduction about this program
     - Has link to download app for android devices
     
    #Add link to Twitter and Instagram
+   
     - https://www.instagram.com/_comfortsound/
     - https://twitter.com/comfortsound1
   
@@ -85,9 +87,8 @@
     - 
 
 # Week 10 (Mar 25th - Apr 04th)
-  
   #Spring Break
-    Do not work on the project. Prepare wedding ceremony
+    - Need to prepare upcoming wedding ceremony. Cannot work on the project
   
 # Week 11 (Apr 05th - Apr 10th)
 
