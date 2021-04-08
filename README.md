@@ -7,11 +7,9 @@
 # Week 02 (Feb 07th - Feb 13rd)
 
   #Start discussing web page design with supervisor.
-  
     Since this project has mobile application, the web page briefly introduces the purpose and contents of this program.
     
    #Basic concept of web page
-    
     Use HTML/CSS and JavaScript
     Static web page
     Hosting with GitHub
