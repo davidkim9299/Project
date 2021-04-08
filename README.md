@@ -1,57 +1,108 @@
-# FEB 01st
+# Week 01 (Jan 31st - Feb 6th)
 
-  #Upload code
+  #Build ideas for project
   
-  #need to be add
-   - Introduction
-   - Projects
-   - E-mail address
+    - Web and mobile application (Android)
+  
+# Week 02 (Feb 07th - Feb 13rd)
 
-  #Read "CISC 4900 Project Proposal.docx" file for details
+  #Start discussing web page design with supervisor.
+   
+    - Since this project has mobile application, 
+      The web page briefly introduces the purpose and contents of this program.
+    
+  #Basic concept of web page
+   
+    - Use HTML/CSS and JavaScript
+    - Static web page
+    - Hosting with GitHub
+    - Download link on the main page
+    - connect social medias such as twitter and instagram
+    - Method to contact developer
   
-  #www.dongryulkim9299.com/Project for website
+# Week 03 (Feb 14th - Feb 20th)
 
-# MAR 01st
+  #Start to upload code
+  
+  #Need to be added
+  
+    - Introduction
+    - Sample contents
+    - Contactable method such as E-mail
+    
+   #Hosted with GitHub
+   
+    - https://dongryulkim9299.com/Project/
 
-  #Gather some API's from Youtube.
-   - Frequency waves
-   - Sounds from nature
+# Week 04 (Feb 21st - Feb 27th)
+  
+  #Investigate the effects of sound on the human body
+   - Attach links to web page for references.
 
-# MAR 10th
+# Week 05 (Feb 28th - Mar 06th)
 
-  #Build Website
-   - single page and static   
-   - Introduces what this program is   
-   - Has link to download app for android devices   
+  #Get contents from Youtube (Open Sources)
   
-  #Add links for Twitter and Instagram
+    - Frequency waves
+    - Sounds from nature
   
-  #[Download] button will be activated after the app resistered in market
-  
-# MAR 22th
+# Week 06 (Mar 07th - Mar 13th)
 
-  #Start building Android Application using Kotlin
-   - Start to learn Kotlin
-   - Since developers have used Java to build android app, Kotlin has really similar grammar and structure with Java
-   - Study to undestand what Kotlin is
-   - Create first page of the app
-   - Image will not be displayed when it has too many pixels
-   - Put test image to display in device. and it works.
+  #Project proposal confirmed. "CISC 4900 Project Proposal.docx" file for details
+    
+  #Build Web page
   
-  #Print app name and put [start] button whcih let user starts explorer the app
+    - Static
+    - Has introduction about this program
+    - Has link to download app for android devices
+    - Has sample contents
+    
+   #Add link to Twitter and Instagram
+   
+    - https://www.instagram.com/_comfortsound/
+    - https://twitter.com/comfortsound1
   
-# MAR 23th
+   ![Webpage](https://user-images.githubusercontent.com/70281650/114076734-022c8600-9875-11eb-9119-e51c5011c668.PNG)
+  
+# Week 07 (Mar 14th - Mar 20th)
 
-  #Created second page -> divided two parts now on
-   - Learn how to move to next page using 'button'
-   - When user click [start] button at the first page, the second page showed up.
+   #Start building Android Application using Kotlin
+   
+    - Start to learn Kotlin
+    - Since developers have used Java to build android app, Kotlin has really similar grammar and structure with Java
+    - Study to undestand what Kotlin is
+    - Create first page of the app
+    - Learned that image will not be displayed when it has too many pixels
+    - Put test image to display in device. and it works.
   
-  #This page is divided by two parts wich represent 'frequency wave' and 'sound from nature'
+   #Set sign-up buttons 
+    
+    - sign up manually or with social networks (Google, Facebook)
   
-  #User can choose and access to the sound what they want to listen
+   ![mainpage](https://user-images.githubusercontent.com/70281650/114081744-f04de180-987a-11eb-865a-96ffd15ee6e0.PNG)
+
+# Week 09 (Mar 21st - Mar 24th)
+
+  #Self-study
   
-# MAR 24th
+    - Learn Kotlin
+    
+
+# Week 10 (Mar 25th - Apr 04th)
   
-  #Create Third pages for each part
+  #Spring Break
   
-  #Skip to design each screen. Just constructed the structure of the app
+    - Need to prepare upcoming wedding ceremony. Cannot work on the project
+  
+# Week 11 (Apr 05th - Apr 10th)
+
+
+
+
+
+
+
+
+
+
+  
