@@ -35,6 +35,9 @@
     - https://dongryulkim9299.com/Project/
 
 # Week 04 (Feb 21st - Feb 27th)
+  
+  #Investigate the effects of sound on the human body
+   - Attach links to web page for references.
 
 # Week 05 (Feb 28th - Mar 06th)
 
@@ -52,6 +55,7 @@
     - Static
     - Has introduction about this program
     - Has link to download app for android devices
+    - Has sample contents
     
    #Add link to Twitter and Instagram
    
