@@ -103,6 +103,9 @@
   
   ![contact via email](https://user-images.githubusercontent.com/70281650/114085297-2e4d0480-987f-11eb-8c78-b1d2fcc81358.PNG)
    - Writing script for emailJS is one of the hardest challenge this week
+  
+  #setup sign-up function
+  
 
 
 
