@@ -107,6 +107,7 @@
   #setup sign-up function
    - Link with google fire base
    - Struggle with importing extension -> problem solved when edit gradle
+   - Password will be hide when user types it
    
   ![Screenshot_1617990454](https://user-images.githubusercontent.com/70281650/114220805-74b36980-993a-11eb-8527-693ca954d708.png)
   ![aaaa](https://user-images.githubusercontent.com/70281650/114220823-79781d80-993a-11eb-9a9c-440b84603cab.PNG)
