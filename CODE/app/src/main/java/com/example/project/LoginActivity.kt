@@ -1,11 +1,11 @@
-package com.example.comfortsound
+package com.example.project
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
-class wave : AppCompatActivity() {
+class LoginActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_wave)
+        setContentView(R.layout.activity_login)
     }
 }

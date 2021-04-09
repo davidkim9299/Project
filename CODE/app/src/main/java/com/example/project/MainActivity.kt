@@ -1,11 +1,11 @@
-package com.example.comfortsound
+package com.example.project
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
-class nature : AppCompatActivity() {
+class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_nature)
+        setContentView(R.layout.activity_main)
     }
 }
