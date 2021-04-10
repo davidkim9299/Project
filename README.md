@@ -110,6 +110,7 @@
    - Password will be hide when user types it
    
   ![4](https://user-images.githubusercontent.com/70281650/114285984-2e890380-9a29-11eb-8796-46b9642d71fd.png)
+  
   ![5](https://user-images.githubusercontent.com/70281650/114285985-2fba3080-9a29-11eb-8881-70234fd2ae8a.PNG)
   
   
@@ -132,7 +133,7 @@
   ![8](https://user-images.githubusercontent.com/70281650/114285988-33e64e00-9a29-11eb-8123-5e2dd3fb5612.png)
    
    - Error was using wrong password(typo) for google firebase -> fixed
-   - 
+ 
   ![9](https://user-images.githubusercontent.com/70281650/114285989-35177b00-9a29-11eb-9944-d38d21779f53.PNG)
 
   
