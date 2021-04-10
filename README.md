@@ -125,6 +125,11 @@
   #Activate Sign-in function using Facebook
   
   ![Screenshot_1618091490](https://user-images.githubusercontent.com/70281650/114285836-18c70e80-9a28-11eb-8b97-c92f235b7f9e.png)
+    
+    - An error occurs when trying to sign-in with facebook
+   ![Screenshot_1618091709](https://user-images.githubusercontent.com/70281650/114285851-2c727500-9a28-11eb-8ab6-5d2d7eb5b3ba.png)
+   
+    - Error was using wrong password for google firebase -> fixed
 
   
 
