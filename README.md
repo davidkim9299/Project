@@ -135,6 +135,8 @@
    - Error was using wrong password(typo) for google firebase -> fixed
  
   ![9](https://user-images.githubusercontent.com/70281650/114285989-35177b00-9a29-11eb-9944-d38d21779f53.PNG)
+  
+   - Complete to activate sign-up using e-mail, Google, and Facebook
 
   
 
