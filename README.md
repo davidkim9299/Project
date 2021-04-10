@@ -62,7 +62,7 @@
    - https://www.instagram.com/_comfortsound/
    - https://twitter.com/comfortsound1
   
-   ![Webpage](https://user-images.githubusercontent.com/70281650/114076734-022c8600-9875-11eb-9119-e51c5011c668.PNG)
+![1](https://user-images.githubusercontent.com/70281650/114285978-29c44f80-9a29-11eb-8a45-df0f03ae448d.PNG)
   
 # Week 07 (Mar 14th - Mar 20th) 24hrs
 
@@ -79,7 +79,7 @@
     
    - sign up manually or with social networks (Google, Facebook)
   
-   ![Screenshot_1617910956](https://user-images.githubusercontent.com/70281650/114086797-11b1cc00-9881-11eb-8f6b-eb48a7c62f2c.png)
+  ![2](https://user-images.githubusercontent.com/70281650/114285980-2c26a980-9a29-11eb-83d9-a0027dd1440d.png)
 
 
 # Week 08 (Mar 21st - Mar 24th) 8hrs
@@ -101,7 +101,7 @@
   
   #Use emailJS to create e-mail contact form
   
-  ![contact via email](https://user-images.githubusercontent.com/70281650/114085297-2e4d0480-987f-11eb-8c78-b1d2fcc81358.PNG)
+ ![3](https://user-images.githubusercontent.com/70281650/114285983-2df06d00-9a29-11eb-8964-ebfb3f31fa77.PNG)
    - Writing script for emailJS is one of the hardest challenge this week
   
   #setup sign-up function
@@ -109,14 +109,14 @@
    - Struggle with importing extension -> problem solved when edit gradle
    - Password will be hide when user types it
    
-  ![Screenshot_1617990454](https://user-images.githubusercontent.com/70281650/114220805-74b36980-993a-11eb-8527-693ca954d708.png)
-  ![aaaa](https://user-images.githubusercontent.com/70281650/114220823-79781d80-993a-11eb-9a9c-440b84603cab.PNG)
+  ![4](https://user-images.githubusercontent.com/70281650/114285984-2e890380-9a29-11eb-8796-46b9642d71fd.png)
+  ![5](https://user-images.githubusercontent.com/70281650/114285985-2fba3080-9a29-11eb-8881-70234fd2ae8a.PNG)
   
   
   #Activate Sign-in function using Google account
   
-  ![Screenshot_1618086206](https://user-images.githubusercontent.com/70281650/114284255-9127d280-9a1c-11eb-814d-f5553ee4f6c1.png)
-
+  ![6](https://user-images.githubusercontent.com/70281650/114285986-30eb5d80-9a29-11eb-90d7-b655b2bb63b0.png)
+  
    - did not move to mainpage after sign-in using google account
    - Add SHA1 key to firebase and it works
 
@@ -124,14 +124,16 @@
 
   #Activate Sign-in function using Facebook
   
-  ![Screenshot_1618091490](https://user-images.githubusercontent.com/70281650/114285836-18c70e80-9a28-11eb-8b97-c92f235b7f9e.png)
+  
+  ![7](https://user-images.githubusercontent.com/70281650/114285987-334db780-9a29-11eb-8f01-49d2b4655eb9.png)
     
    - An error occurs when trying to sign-in with facebook
-  ![Screenshot_1618091709](https://user-images.githubusercontent.com/70281650/114285851-2c727500-9a28-11eb-8ab6-5d2d7eb5b3ba.png)
+  
+  ![8](https://user-images.githubusercontent.com/70281650/114285988-33e64e00-9a29-11eb-8123-5e2dd3fb5612.png)
    
    - Error was using wrong password(typo) for google firebase -> fixed
-  
-  ![qwfqwf](https://user-images.githubusercontent.com/70281650/114285874-72c7d400-9a28-11eb-9a4c-32700a397447.PNG)
+   - 
+  ![9](https://user-images.githubusercontent.com/70281650/114285989-35177b00-9a29-11eb-9944-d38d21779f53.PNG)
 
   
 
