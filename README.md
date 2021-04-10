@@ -112,6 +112,11 @@
   ![Screenshot_1617990454](https://user-images.githubusercontent.com/70281650/114220805-74b36980-993a-11eb-8527-693ca954d708.png)
   ![aaaa](https://user-images.githubusercontent.com/70281650/114220823-79781d80-993a-11eb-9a9c-440b84603cab.PNG)
   
+  
+  #Activate Sign-in function using google account
+   - did not move to mainpage after sign-in using google account
+   - Add SHA1 key to firebase and it works
+  
 
 
 
