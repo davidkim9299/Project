@@ -113,12 +113,16 @@
   ![aaaa](https://user-images.githubusercontent.com/70281650/114220823-79781d80-993a-11eb-9a9c-440b84603cab.PNG)
   
   
-  #Activate Sign-in function using google account
+  #Activate Sign-in function using Google account
   
   ![Screenshot_1618086206](https://user-images.githubusercontent.com/70281650/114284255-9127d280-9a1c-11eb-814d-f5553ee4f6c1.png)
 
    - did not move to mainpage after sign-in using google account
    - Add SHA1 key to firebase and it works
+
+
+
+  #Activate Sign-in function using Facebook
   
 
 
