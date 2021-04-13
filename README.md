@@ -95,7 +95,7 @@
   
    - Need to prepare upcoming wedding ceremony. Cannot work on the project
   
-# Week 10 (Apr 05th - Apr 10th) 
+# Week 10 (Apr 05th - Apr 10th) 14hrs
 
   #Learn firebase to link application and database
   
@@ -137,6 +137,10 @@
   ![9](https://user-images.githubusercontent.com/70281650/114285989-35177b00-9a29-11eb-9944-d38d21779f53.PNG)
   
    - Complete to activate sign-up using e-mail, Google, and Facebook
+
+
+  # Week 10 (Apr 12th - Apr 17th) 2hrs
+   - Make navigation bar 
 
   
 
