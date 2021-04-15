@@ -142,7 +142,7 @@
   # Week 10 (Apr 12th - Apr 17th) 6hrs
    - Make navigation bar
    
-   - Main UI
+   - Main page design
   ![KakaoTalk_20210415_012125762](https://user-images.githubusercontent.com/70281650/114817966-efd8ad80-9d88-11eb-88a9-a61beb1a5ff8.jpg)
 
 
