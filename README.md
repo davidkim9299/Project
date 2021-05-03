@@ -139,14 +139,41 @@
    - Complete to activate sign-up using e-mail, Google, and Facebook
 
 
-  # Week 10 (Apr 12th - Apr 17th) 6hrs
+  # Week 10 (Apr 12th - Apr 17th) 17hrs
    - Make bottom navigation bar
+    - set fragments to build bottom navigation bar
+    - challenge: swipe activity <-> fragement
     - follow the similar design of Instagram/TikTok to make users feel familiar.
    
    - Main page design
   ![KakaoTalk_20210415_012125762](https://user-images.githubusercontent.com/70281650/114817966-efd8ad80-9d88-11eb-88a9-a61beb1a5ff8.jpg)
 
 
+  # Week 11 (Apr 19th - Apr 14th) 18hrs
+   - upload data to google firebase storage.
+    - program will display data like diary
+   - got permission of useage for 6 mp3 files
+   - Main page
+
+  ![11](https://user-images.githubusercontent.com/70281650/116928552-195f5900-ac12-11eb-8b8f-42f727bd449a.png)
+  
+   - Post writing page
+   
+  ![10](https://user-images.githubusercontent.com/70281650/116925806-84a72c00-ac0e-11eb-9657-044a73c41d46.png)
+  
+   - Personal page
+   
+  ![12](https://user-images.githubusercontent.com/70281650/116928559-1b291c80-ac12-11eb-8c48-6194c9bf8d5b.png)
+
+  
+  # Week 12 (Apr 26th - May 01st) 13hrs
+   - retrieve data from firebase storage to application
+   - need to create delete post function 
+   - add delete function
+   - program does not allow to sort post by timeline
+    - firebase?.collection()?.whereEqualsTo()?.orderBy() does not work
+    - add index in firebase storage -> working!!
+   - posts are shown ordered by timeline, descending.
   
 
 
