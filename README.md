@@ -154,6 +154,7 @@
     - program will display data like diary
    - got permission of useage for 6 mp3 files
    - post writing page
+   
   ![10](https://user-images.githubusercontent.com/70281650/116925806-84a72c00-ac0e-11eb-9657-044a73c41d46.png)
 
   
