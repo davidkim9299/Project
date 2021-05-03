@@ -153,9 +153,17 @@
    - upload data to google firebase storage.
     - program will display data like diary
    - got permission of useage for 6 mp3 files
-   - post writing page
+   - Main page
+
+  ![11](https://user-images.githubusercontent.com/70281650/116928552-195f5900-ac12-11eb-8b8f-42f727bd449a.png)
+  
+   - Post writing page
    
   ![10](https://user-images.githubusercontent.com/70281650/116925806-84a72c00-ac0e-11eb-9657-044a73c41d46.png)
+  
+   - Personal page
+   
+  ![12](https://user-images.githubusercontent.com/70281650/116928559-1b291c80-ac12-11eb-8c48-6194c9bf8d5b.png)
 
   
   # Week 12 (Apr 26th - May 01st) 13hrs
