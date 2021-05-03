@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageButton
+        android:id="@+id/enhance_bt"
+        android:layout_width="match_parent"
+        android:layout_height="0px"
+        android:layout_weight="1"
+        android:scaleType="centerInside"
+        android:src="@drawable/enhance"
+        android:background="#f7f17e">
+    </ImageButton>
+
+    <TextView
+        android:text="What you need?"
+        android:id="@+id/edit"
+        android:layout_width="fill_parent"
+        android:layout_height="0px"
+        android:layout_weight="0.2"
+        android:gravity="center"
+        android:background="#000000"
+        android:textColor="#ffffff"
+        android:textStyle="bold"
+        android:textSize="20dp">
+    </TextView>
+
+    <ImageButton
+        android:id="@+id/comfort_bt"
+        android:layout_width="match_parent"
+        android:layout_height="0px"
+        android:scaleType="centerInside"
+        android:layout_weight="1"
+        android:src="@drawable/comfort"
+        android:background="#898d96">
+    </ImageButton>
+
+</LinearLayout>
+
+
+
+
+
+
+
+
+    <!--<androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/gridfragment_recyclerview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </androidx.recyclerview.widget.RecyclerView>-->

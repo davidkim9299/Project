@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    android:layout_marginTop="50dp"
+    android:layout_marginLeft="50dp"
+    android:layout_marginRight="50dp"
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/my_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="35dp">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/logo_title"></ImageView>
+    </androidx.appcompat.widget.Toolbar>
+    <EditText
+        android:layout_below="@+id/write_title"
+        android:id="@+id/write_date"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:hint="DATE (MM/DD/YYYY)"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"/>
+
+    <EditText
+        android:id="@+id/write_title"
+        android:layout_marginTop="50dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:hint="TITLE"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"/>
+
+
+
+    <EditText
+        android:layout_below="@+id/write_date"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:hint="WRITE ABOUT YOUR STATUS"
+        android:gravity="top"
+        android:id="@+id/write_content"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"/>
+
+    <ImageView
+        android:id="@+id/write_photo"
+        android:layout_marginTop="50dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:layout_below="@+id/write_content"
+        android:layout_width="match_parent"
+        android:src="@drawable/add_photo"
+        android:layout_height="100dp"/>
+
+
+
+    <Button
+        android:id="@+id/write_upload"
+        android:text="UPLOAD"
+        android:layout_marginTop="50dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:layout_below="@+id/write_photo"
+        android:theme="@style/ButtonStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </Button>
+
+</RelativeLayout>
