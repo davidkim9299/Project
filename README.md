@@ -160,6 +160,8 @@
    - add delete function
    - program does not allow to sort post by timeline
     - firebase?.collection()?.whereEqualsTo()?.orderBy() does not work
+    - add index in firebase storage -> working!!
+   - posts are shown ordered by timeline, descending.
   
 
 
