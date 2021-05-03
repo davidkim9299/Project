@@ -156,8 +156,10 @@
   
   # Week 12 (Apr 26th - May 01st) 13hrs
    - retrieve data from firebase storage to application
-   - need to create delete/ modify function 
-
+   - need to create delete post function 
+   - add delete function
+   - program does not allow to sort post by timeline
+    - firebase?.collection()?.whereEqualsTo()?.orderBy() does not work
   
 
 
