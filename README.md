@@ -175,6 +175,7 @@
     - add index in firebase storage -> working!!
    - posts are shown ordered by timeline, descending.
    - having problem with playin/ pausing/ stopping mp3 files
+ 
     - all three buttons are work when at the first time
     - when pages are changed, the sound still playing
     - but when go back to pause/ stop sound, it does not work
