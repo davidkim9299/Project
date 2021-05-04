@@ -49,23 +49,6 @@ class WriteActivity : AppCompatActivity() {
         write_photo.setOnClickListener {openGallery()}
         write_upload.setOnClickListener{contentUpload()}
 
-
-        /*write_upload.setOnClickListener() {
-            contentUpload()
-        }*/
-        /*if (true) {
-            var contentDTO = ContentDTO()
-
-            contentDTO.uid = auth?.uid
-            contentDTO.userId = auth?.currentUser?.email
-            contentDTO.write_title = write_title.text.toString()
-            contentDTO.write_date = write_date.text.toString()
-            contentDTO.write_content = write_content.text.toString()
-            contentDTO.timestamp = System.currentTimeMillis()
-            firestore?.collection("posts")?.document(auth?.uid.toString())?.set(contentDTO)
-            setResult(Activity.RESULT_OK)
-            finish()
-        }*/
     }
 
 
@@ -80,7 +63,7 @@ class WriteActivity : AppCompatActivity() {
         if (resultCode == Activity.RESULT_OK) {
             if (requestCode == OPEN_GALLERY) {
                 photoUri = data?.data
-                write_photo.setImageURI(photoUri)
+                    write_photo.setImageURI(photoUri)
                 try {
                     val bitmap = MediaStore.Images.Media.getBitmap(contentResolver, photoUri)
                     write_photo.setImageBitmap(bitmap)

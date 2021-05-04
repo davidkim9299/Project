@@ -76,6 +76,15 @@
             android:layout_above="@+id/content_image"
             android:layout_width="wrap_content"
             android:layout_height="35dp"/>
+        <!--<Button
+            android:text="MODIFY"
+            android:textSize="10dp"
+            android:textStyle="bold"
+            android:id="@+id/btn_modify"
+            android:layout_toLeftOf="@+id/btn_delete"
+            android:layout_above="@+id/content_image"
+            android:layout_width="wrap_content"
+            android:layout_height="35dp"/>-->
 
     </RelativeLayout>
 
