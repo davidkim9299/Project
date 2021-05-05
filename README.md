@@ -179,6 +179,10 @@
     - all three buttons are work when at the first time
     - when pages are changed, the sound still playing
     - but when go back to pause/ stop sound, it does not work
+
+  # Week 13 (May 03rd - may 08th) 18hrs
+   - google sign-in function works on emulator, but not on real device
+   - application shutting down when click the button of 'comfort fragment'
    
   
 
