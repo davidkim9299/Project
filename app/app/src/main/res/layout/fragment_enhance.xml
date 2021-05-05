@@ -8,10 +8,17 @@
 
     <!-- Concentration -->
     <RelativeLayout
-        android:background="#aa2244"
+        android:background="#ffea00"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_weight="1">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="CONCENTRATION"
+            android:textSize="30dp"
+            android:textStyle="bold"
+            />
         <Button
             android:id="@+id/con_play"
             android:layout_width="50dp"
@@ -38,10 +45,17 @@
 
     <!-- Creative -->
     <RelativeLayout
-        android:background="#bb3366"
+        android:background="#fff047"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_weight="1">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="CREATIVE"
+            android:textSize="30dp"
+            android:textStyle="bold"
+            />
         <Button
             android:id="@+id/cre_play"
             android:layout_width="50dp"
@@ -68,10 +82,17 @@
 
     <!-- long time study -->
     <RelativeLayout
-        android:background="#cc4488"
+        android:background="#fff475"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_weight="1">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="LONGTIME WORKING"
+            android:textSize="30dp"
+            android:textStyle="bold"
+            />
         <Button
             android:id="@+id/lts_play"
             android:layout_width="50dp"
@@ -98,10 +119,17 @@
 
     <!-- Memorize -->
     <RelativeLayout
-        android:background="#dd5500"
+        android:background="#fff79c"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_weight="1">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="MEMORIZE"
+            android:textSize="30dp"
+            android:textStyle="bold"
+            />
         <Button
             android:id="@+id/mem_play"
             android:layout_width="50dp"
@@ -128,10 +156,17 @@
 
     <!-- Solving -->
     <RelativeLayout
-        android:background="#aabb44"
+        android:background="#fffac4"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_weight="1">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="PROBLEM SOLVING"
+            android:textSize="30dp"
+            android:textStyle="bold"
+            />
         <Button
             android:id="@+id/sol_play"
             android:layout_width="50dp"
@@ -158,10 +193,17 @@
 
     <!-- Warm-up -->
     <RelativeLayout
-        android:background="#cc7744"
+        android:background="#fcfade"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_weight="1">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="WARM UP"
+            android:textSize="30dp"
+            android:textStyle="bold"
+            />
         <Button
             android:id="@+id/wau_play"
             android:layout_width="50dp"

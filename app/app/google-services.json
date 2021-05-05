@@ -7,12 +7,28 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:47355318477:android:f3b54b3d84be7b72231984",
+        "mobilesdk_app_id": "1:47355318477:android:55e01fa131dead50231984",
         "android_client_info": {
-          "package_name": "com.example.project"
+          "package_name": "com.ComfortSound.project"
         }
       },
       "oauth_client": [
+        {
+          "client_id": "47355318477-dbe46rqlgm1k5koo7hvjmrmgg9la69e1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ComfortSound.project",
+            "certificate_hash": "c53b8bf9d93662e569b597ea5d2c746f95b3c579"
+          }
+        },
+        {
+          "client_id": "47355318477-kghop87m3s5ha6dmqel9gfv2tuc0e8b7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ComfortSound.project",
+            "certificate_hash": "354c7c6a64e00d3e28eafc7eb7c1b62142c55128"
+          }
+        },
         {
           "client_id": "47355318477-r4oujsjvq47fqegj4o4a0utmbbo8b77a.apps.googleusercontent.com",
           "client_type": 3
@@ -27,7 +43,7 @@
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "47355318477-r4oujsjvq47fqegj4o4a0utmbbo8b77a.apps.googleusercontent.com",
+              "client_id": "47355318477-792qblj0llf7k0nqnfq5985e9gaqh729.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
