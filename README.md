@@ -1,3 +1,12 @@
+# Comfort Sound
+  - For android app
+    https://play.google.com/store/apps/details?id=com.ComfortSound.project
+  
+  - Website
+    https://dongryulkim9299.com/Project/
+
+
+
 # Week 01 (Jan 31st - Feb 6th) 4hrs
 
   #Build ideas for project
