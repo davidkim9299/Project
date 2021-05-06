@@ -183,6 +183,9 @@
   # Week 13 (May 03rd - may 08th) 18hrs
    - google sign-in function works on emulator, but not on real device
    - application shutting down when click the button of 'comfort fragment'
+    - it haapend because the size of image files too big. system memory cannot hold the app
+   - add admob for advertisement
+   - register on play market (https://play.google.com/store/apps/details?id=com.ComfortSound.project)
    
   
 
