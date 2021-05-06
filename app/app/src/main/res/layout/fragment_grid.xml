@@ -8,31 +8,29 @@
         android:id="@+id/enhance_bt"
         android:layout_width="match_parent"
         android:layout_height="0px"
-        android:layout_weight="1"
+        android:layout_weight="0.8"
         android:scaleType="centerInside"
         android:src="@drawable/enhance"
         android:background="#f7f17e">
     </ImageButton>
 
-    <TextView
-        android:text="What you need?"
-        android:id="@+id/edit"
-        android:layout_width="fill_parent"
-        android:layout_height="0px"
+    <com.google.android.gms.ads.AdView
+        xmlns:ads="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/adView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        ads:adSize="BANNER"
         android:layout_weight="0.2"
-        android:gravity="center"
-        android:background="#000000"
-        android:textColor="#ffffff"
-        android:textStyle="bold"
-        android:textSize="20dp">
-    </TextView>
+        ads:adUnitId="ca-app-pub-6943441721133371/7029925470">
+    </com.google.android.gms.ads.AdView>
 
     <ImageButton
         android:id="@+id/comfort_bt"
         android:layout_width="match_parent"
         android:layout_height="0px"
         android:scaleType="centerInside"
-        android:layout_weight="1"
+        android:layout_weight="0.8"
         android:src="@drawable/comfort"
         android:background="#898d96">
     </ImageButton>

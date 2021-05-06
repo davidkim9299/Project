@@ -9,6 +9,7 @@ import android.view.View
 import androidx.core.app.ActivityCompat
 import androidx.core.content.ContextCompat
 import com.ComfortSound.project.navigation.*
+import com.google.android.gms.ads.MobileAds
 import com.google.android.material.bottomnavigation.BottomNavigationView
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.firestore.FirebaseFirestore
@@ -86,6 +87,7 @@ class MainActivity : AppCompatActivity(), BottomNavigationView.OnNavigationItemS
         //Set default screen
         bottom_navigation.selectedItemId = R.id.action_home
         registerPushToken()
+        MobileAds.initialize(this)
     }
 
     /*override fun onActivityResult(requestCode: Int, resultCode: Int, data: Intent?) {
