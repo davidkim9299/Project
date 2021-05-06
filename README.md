@@ -158,7 +158,7 @@
   ![KakaoTalk_20210415_012125762](https://user-images.githubusercontent.com/70281650/114817966-efd8ad80-9d88-11eb-88a9-a61beb1a5ff8.jpg)
 
 
-  # Week 12 (Apr 19th - Apr 14th) 18hrs
+  # Week 12 (Apr 19th - Apr 24th) 18hrs
    - upload data to google firebase storage.
     - program will display data like diary
    - got permission of useage for 6 mp3 files
