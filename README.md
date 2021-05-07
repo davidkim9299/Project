@@ -195,6 +195,10 @@
     - it haapend because the size of image files too big. system memory cannot hold the app
    - add admob for advertisement
    - register on play market (https://play.google.com/store/apps/details?id=com.ComfortSound.project)
+   - Date section will be automatically filled
+   
+   ![13](https://user-images.githubusercontent.com/70281650/117486051-00122180-af1e-11eb-9d6f-4019249e57ee.PNG)
+
    
   
 
