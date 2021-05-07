@@ -148,7 +148,7 @@
    - Complete to activate sign-up using e-mail, Google, and Facebook
 
 
-  # Week 10 (Apr 12th - Apr 17th) 17hrs
+  # Week 11 (Apr 12th - Apr 17th) 17hrs
    - Make bottom navigation bar
     - set fragments to build bottom navigation bar
     - challenge: swipe activity <-> fragement
@@ -158,7 +158,7 @@
   ![KakaoTalk_20210415_012125762](https://user-images.githubusercontent.com/70281650/114817966-efd8ad80-9d88-11eb-88a9-a61beb1a5ff8.jpg)
 
 
-  # Week 11 (Apr 19th - Apr 14th) 18hrs
+  # Week 12 (Apr 19th - Apr 24th) 18hrs
    - upload data to google firebase storage.
     - program will display data like diary
    - got permission of useage for 6 mp3 files
@@ -175,7 +175,7 @@
   ![12](https://user-images.githubusercontent.com/70281650/116928559-1b291c80-ac12-11eb-8c48-6194c9bf8d5b.png)
 
   
-  # Week 12 (Apr 26th - May 01st) 13hrs
+  # Week 13 (Apr 26th - May 01st) 13hrs
    - retrieve data from firebase storage to application
    - need to create delete post function 
    - add delete function
@@ -189,7 +189,7 @@
     - when pages are changed, the sound still playing
     - but when go back to pause/ stop sound, it does not work
 
-  # Week 13 (May 03rd - may 08th) 18hrs
+  # Week 14 (May 03rd - may 08th) 18hrs
    - google sign-in function works on emulator, but not on real device
    - application shutting down when click the button of 'comfort fragment'
     - it haapend because the size of image files too big. system memory cannot hold the app
