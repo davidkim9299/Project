@@ -19,9 +19,6 @@ class GridFragment : Fragment()  {
     override fun onCreateView(inflater: LayoutInflater,container: ViewGroup?,savedInstanceState: Bundle?):View? {
 
         fragmentView = LayoutInflater.from(activity).inflate(R.layout.fragment_grid,container,false)
-        //firestore = FirebaseFirestore.getInstance()
-        //fragmentView?.gridfragment_recyclerview?.adapter = UserFragmentRecyclerViewAdapter()
-        //fragmentView?.gridfragment_recyclerview?.layoutManager = GridLayoutManager(activity,3)
 
 
         return fragmentView
