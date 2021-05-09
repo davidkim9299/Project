@@ -25,27 +25,13 @@ class MainActivity : AppCompatActivity(), BottomNavigationView.OnNavigationItemS
                 supportFragmentManager.beginTransaction().replace(R.id.main_content,gridFragment).commit()
                 return true
             }
-            /*R.id.action_search -> {
-                var detailViewFragment = DetailViewFragment()
-                supportFragmentManager.beginTransaction().replace(R.id.main_content,detailViewFragment).commit()
-                return true
-            }*/
-            /*R.id.action_write -> {
-                var writeFragment = WriteFragment()
-                supportFragmentManager.beginTransaction().replace(R.id.main_content,writeFragment).commit()
-                return true
-            }*/
+            
             R.id.action_write -> {
                 startActivity(Intent(this,WriteActivity::class.java))
                 if(ContextCompat.checkSelfPermission(this,android.Manifest.permission.READ_EXTERNAL_STORAGE) == PackageManager.PERMISSION_GRANTED){
                     startActivity(Intent(this,WriteActivity::class.java))
                 }
            }
-            /*R.id.action_favorite_alarm -> {
-                var alarmFragment = AlarmFragment()
-                supportFragmentManager.beginTransaction().replace(R.id.main_content,alarmFragment).commit()
-                return true
-            }*/
             R.id.action_account -> {
                 var userpageFragment = DetailViewFragment()
                 var bundle = Bundle()
@@ -90,21 +76,6 @@ class MainActivity : AppCompatActivity(), BottomNavigationView.OnNavigationItemS
         MobileAds.initialize(this)
     }
 
-    /*override fun onActivityResult(requestCode: Int, resultCode: Int, data: Intent?) {
-        super.onActivityResult(requestCode, resultCode, data)
-
-        if(requestCode == UserFragment.PICK_PROFILE_FROM_ALBUM && resultCode == RESULT_OK){
-            var imageUri = data?.data
-            var uid = FirebaseAuth.getInstance().currentUser?.uid
-            var storageRef = FirebaseStorage.getInstance().reference.child("userProfileImages").child(uid!!)
-            storageRef.putFile(imageUri!!).continueWithTask { task: Task<UploadTask.TaskSnapshot> ->
-                return@continueWithTask storageRef.downloadUrl
-            }.addOnSuccessListener { uri ->
-                var map = HashMap<String,Any>()
-                map["image"] = uri.toString()
-                FirebaseFirestore.getInstance().collection("profileImages").document(uid).set(map)
-            }
-        }
-    }*/
+   
 
 }
